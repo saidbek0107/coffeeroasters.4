@@ -1,0 +1,244 @@
+main-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .title {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+
+    .background {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #0E8784;
+    }
+
+    .back_title {
+        color: #FFF;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .back_text {
+        color: #FEFCF7;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        width: 172px;
+        margin-top: 24px;
+    }
+
+    .back_letter {
+        padding: 28px;
+    }
+
+
+    .background2 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #F4F1EB;
+    }
+
+    .back_title2 {
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .back_text2 {
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        width: 172px;
+        margin-top: 24px;
+    }
+
+    .back_letter2 {
+        padding: 28px;
+    }
+
+    .background3 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #F4F1EB;
+    }
+
+    .back_title3 {
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .back_text3 {
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        width: 172px;
+        margin-top: 24px;
+    }
+
+    .back_letter3 {
+        padding: 28px;
+    }
+
+    .cards {
+        display: flex;
+        margin-top: 56px;
+        gap: 23px;
+    }
+
+    .your_coffee{
+        margin-left: 465px;
+        margin-top: -26.90rem;
+    }
+
+    .title_1 {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+
+    }
+
+
+
+    .title_2 {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 88px;
+    }
+
+    .title_3 {
+        color: #a9afb7;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 88px;
+    }
+
+    .title_4 {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 88px;
+    }
+
+    .titles {
+        margin-top: 88px;
+    }
+
+    .background_1 {
+        width: 730px;
+        height: 208px;
+        background-color: #2C343E;
+        border-radius: 10px;
+        margin-top: 84px;
+    }
+
+    .back_title_1 {
+        width: 172px;
+        color: #888787;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        text-transform: uppercase;
+        margin-top: 12px;
+    }
+
+    .back_text_1 {
+        width: 602px;
+        color: #FFF;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 40px;
+        margin-top: 8px;
+    }
+
+    .color {
+        color: #0E8784;
+    }
+
+    .color2 {
+        color: #0E8784;
+    }
+
+    .color3 {
+        color: #0E8784;
+    }
+
+    .color4 {
+        color: #0E8784;
+    }
+
+    .order {
+        padding: 40px;
+        margin-left: 20px;
+    }
+
+    .btn {
+        width: 217px;
+        height: 56px;
+        border-radius: 6px;
+        background: #E2DEDB;
+        color: #FEFCF7;
+        text-align: center;
+        font-family:  'Fraunces', serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 25px;
+        border: none;
+        margin-top: 43px;
+        margin-left: 515px;
+    }
+
+
+}
